@@ -1,2 +1,2 @@
 # Machine-Learning
-Implementation of different Machine Learning algorithms using SKLearn
+Implementation of different Machine Learning algorithms using SKLearn 
